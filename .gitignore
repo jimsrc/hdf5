@@ -1,0 +1,5 @@
+*.h5
+*.vim
+exe
+*.[o,x]
+__OFFICIAL__
